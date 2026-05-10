@@ -77,7 +77,7 @@ A lightweight web app designed to connect and empower **micro-entrepreneurs** an
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-joshi-4163b9319/)
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-dun-xi-55.vercel.app/)
-[![Drop a Mail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
+[![Drop a Mail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshivaibhav553@gmail.com)
 ---
 
 *"Build it from scratch — that's how you really understand it."*
