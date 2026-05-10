@@ -49,13 +49,13 @@ A lightweight web app designed to connect and empower **micro-entrepreneurs** an
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vaibhavj2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0902&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavj2006&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavj2006&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
